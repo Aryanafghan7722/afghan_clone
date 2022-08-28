@@ -7,4 +7,7 @@
 # git clone https://github.com/Aryanafghan7722/afghan_clone.git
 # cd afghan_clone
 # ls
-# 
+# python afghan_clone.py
+# created by Afghan logari
+
+ 
